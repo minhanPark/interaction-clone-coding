@@ -62,6 +62,7 @@ a {
   margin-left: 2rem;
 }
 .scroll-section {
+  position: relative;
   padding-top: 50vh;
 }
 
